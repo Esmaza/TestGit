@@ -1,2 +1,2 @@
 # TestGit
-This is fo testig git
+This is fo testing git
